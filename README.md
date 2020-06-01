@@ -6,7 +6,7 @@ Test server for Pizza Delivery service based on [json-server](https://github.com
 
 1. Install [Node.js](https://nodejs.org/en/)
 2. Clone this github repository 
-3. In a console tool enter to the project folder
+3. In a console tool enter the project folder
 4. Run `npm install`
 
 ## Run server
