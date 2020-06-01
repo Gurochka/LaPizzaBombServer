@@ -15,7 +15,7 @@ const db = {
       6.25
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Pepperoni Fresh with tomatoes.jpeg",
+    "image_url": "public/images/goods/Pepperoni Fresh with tomatoes.jpeg",
     "components": [
       5,
       1,
@@ -36,7 +36,7 @@ const db = {
       8
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Asian_shrimp_pizza.jpg",
+    "image_url": "public/images/goods/Asian_shrimp_pizza.jpg",
     "components": [
       9,
       1,
@@ -58,7 +58,7 @@ const db = {
       8.5
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Barbecue_chicken_pizza.jpg",
+    "image_url": "public/images/goods/Barbecue_chicken_pizza.jpg",
     "components": [
       8,
       14,
@@ -81,7 +81,7 @@ const db = {
       7.25
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Cheese_chicken_pizza.jpg",
+    "image_url": "public/images/goods/Cheese_chicken_pizza.jpg",
     "components": [
       8,
       15,
@@ -102,7 +102,7 @@ const db = {
       8
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Double_Pepperoni_pizza.jpg",
+    "image_url": "public/images/goods/Double_Pepperoni_pizza.jpg",
     "components": [
       1,
       2,
@@ -122,7 +122,7 @@ const db = {
       8.2
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Four_cheeses_pizza.jpg",
+    "image_url": "public/images/goods/Four_cheeses_pizza.jpg",
     "components": [
       1,
       16,
@@ -144,7 +144,7 @@ const db = {
       6.25
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/ham_cheese_pizza.jpg",
+    "image_url": "public/images/goods/ham_cheese_pizza.jpg",
     "components": [
       1,
       19,
@@ -164,7 +164,7 @@ const db = {
       6
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Ham_mushrooms_pizza.jpeg",
+    "image_url": "public/images/goods/Ham_mushrooms_pizza.jpeg",
     "components": [
       1,
       19,
@@ -185,7 +185,7 @@ const db = {
       7.25
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Italian_pizza.jpg",
+    "image_url": "public/images/goods/Italian_pizza.jpg",
     "components": [
       1,
       20,
@@ -208,7 +208,7 @@ const db = {
       8.15
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Marguerite_pizza.jpg",
+    "image_url": "public/images/goods/Marguerite_pizza.jpg",
     "components": [
       1,
       20,
@@ -229,7 +229,7 @@ const db = {
       6
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Meat_pizza.jpg",
+    "image_url": "public/images/goods/Meat_pizza.jpg",
     "components": [
       1,
       8,
@@ -252,7 +252,7 @@ const db = {
       6
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Pepperoni_pizza.jpg",
+    "image_url": "public/images/goods/Pepperoni_pizza.jpg",
     "components": [
       1,
       2,
@@ -272,7 +272,7 @@ const db = {
       6
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Spanish_chorizo_sausages_pizza.jpeg",
+    "image_url": "public/images/goods/Spanish_chorizo_sausages_pizza.jpeg",
     "components": [
       1,
       22,
@@ -293,7 +293,7 @@ const db = {
       8.75
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Super_meat_pizza.jpg",
+    "image_url": "public/images/goods/Super_meat_pizza.jpg",
     "components": [
       1,
       8,
@@ -317,7 +317,7 @@ const db = {
       6.25
     ],
     "categoryId": 1,
-    "image_url": "src/public/images/goods/Vegetables_mushrooms_pizza.jpg",
+    "image_url": "public/images/goods/Vegetables_mushrooms_pizza.jpg",
     "components": [
       1,
       20,
@@ -339,7 +339,7 @@ const db = {
     "title": "Coca-cola Zero",
     "price": 1.5,
     "categoryId": 2,
-    "image_url": "src/public/images/goods/colazero.jpg",
+    "image_url": "public/images/goods/colazero.jpg",
     "components": [],
     "weight": 0.5
   },
@@ -348,7 +348,7 @@ const db = {
     "title": "Orange Juice",
     "price": 1.2,
     "categoryId": 2,
-    "image_url": "src/public/images/goods/juice1.jpg",
+    "image_url": "public/images/goods/juice1.jpg",
     "components": [],
     "weight": 1
   },
@@ -357,7 +357,7 @@ const db = {
     "title": "Apple Juice",
     "price": 1.2,
     "categoryId": 2,
-    "image_url": "src/public/images/goods/juice2.jpg",
+    "image_url": "public/images/goods/juice2.jpg",
     "components": [],
     "weight": 1
   },
@@ -366,7 +366,7 @@ const db = {
     "title": "Schweppes bitter lemon",
     "price": 1.35,
     "categoryId": 2,
-    "image_url": "src/public/images/goods/schwepps.jpeg",
+    "image_url": "public/images/goods/schwepps.jpeg",
     "components": [],
     "weight": 0.33
   },
@@ -375,7 +375,7 @@ const db = {
     "title": "Sprite",
     "price": 1.5,
     "categoryId": 2,
-    "image_url": "src/public/images/goods/sprite.jpg",
+    "image_url": "public/images/goods/sprite.jpg",
     "components": [],
     "weight": 0.5
   },
@@ -384,7 +384,7 @@ const db = {
     "title": "Fuztea with camommile",
     "price": 1.5,
     "categoryId": 2,
-    "image_url": "src/public/images/goods/tea.jpg",
+    "image_url": "public/images/goods/tea.jpg",
     "weight": 0.5
   },
   {
@@ -392,7 +392,7 @@ const db = {
     "title": "BonAqua pure water",
     "price": 1.25,
     "categoryId": 2,
-    "image_url": "src/public/images/goods/water.jpg",
+    "image_url": "public/images/goods/water.jpg",
     "weight": 0.5
   },
   {
@@ -401,7 +401,7 @@ const db = {
     "description": "Baked chicken wings in a marinade of barbecue sauce",
     "price": 5.25,
     "categoryId": 3,
-    "image_url": "src/public/images/goods/chickenbig.jpg",
+    "image_url": "public/images/goods/chickenbig.jpg",
     "weight": 340
   },
   {
@@ -410,7 +410,7 @@ const db = {
     "price": 3.5,
     "description": "Baked chicken wings in a marinade of barbecue sauce",
     "categoryId": 3,
-    "image_url": "src/public/images/goods/chicken1.jpeg",
+    "image_url": "public/images/goods/chicken1.jpeg",
     "weight": 200
   },
   {
@@ -419,7 +419,7 @@ const db = {
     "description": "Baked potatoes with Italian herbs.",
     "price": 2.75,
     "categoryId": 3,
-    "image_url": "src/public/images/goods/friedpotato.jpeg"
+    "image_url": "public/images/goods/friedpotato.jpeg"
   },
   {
     "id": 26,
@@ -427,7 +427,7 @@ const db = {
     "description": "Hot appetizer with beef meatballs, tomatoes, mozzarella and chipotle sauce in a thin wheat tortilla",
     "price": 2.95,
     "categoryId": 3,
-    "image_url": "src/public/images/goods/snack.jpg"
+    "image_url": "public/images/goods/snack.jpg"
   }
 ],
   components: [
